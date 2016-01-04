@@ -1,2 +1,3 @@
-# compleat-tails
-The Compleat Tails Primer
+# Surveys
+
+1.	[Intake survey](/intake_survey.md)
