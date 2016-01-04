@@ -21,15 +21,19 @@
 
 ##	Do you personally use/Does your organization use
 
-- [ ]	IM
+- [ ]	IM (eg gtalk, skype, facetime, etc) Please specify: ____
 - [ ]	IM with OTR
 - [ ]	IRC
 - [ ]	PGP
-- [ ]	Signal/Redphone + TextSecure
+- [ ]	Signal
 - [ ]	Silent Circle
 - [ ]	Slack
 - [ ]	Slack with custom integrations?
 - [ ]	Trello
+- [ ] iMessage
+- [ ] Old Fashioned text (SMS)
+- [ ] Email with no external encryption
+- [ ] Other communication app/platform? Please specify: ____
 
 ##	OS
 
@@ -37,19 +41,23 @@
 - [ ]	Mac
 - [ ]	Linux (and which?)
 
-## Mobile OS
+## Mobile/Tablet OS
 
 - [ ]	Android
 - [ ]	iOS
 - [ ]	Blackberry
 - [ ]	Windows Phone
+- [ ] Other: ____
 
 ## Anti-Virus
 
+- [ ] None
 - [ ]	F-Secure
 - [ ]	Sophos
 - [ ]	Norton
 - [ ]	McAfee
+- [ ] Other? Please specify: ____
+- [ ] Firewalls? Please specify: ____
 
 ## Browsers
 
@@ -58,7 +66,7 @@
 - [ ]	IE
 - [ ]	Chrome
 - [ ]	Opera
-- [ ]	Other
+- [ ]	Other? Please specify: ____
 
 ## Email
 
@@ -66,7 +74,7 @@
 - [ ]	Google (free)
 - [ ]	Google (enterprise)
 - [ ]	Outlook
-- [ ]	Other
+- [ ]	Other? Please specify: ____
 
 ## Cloud Storage
 
@@ -74,23 +82,26 @@
 - [ ]	Google Drive
 - [ ]	Tressorit
 - [ ]	SpiderOak
-- [ ]	Other
+- [ ]	Other? Please specify: ____
 
-## 	VPN
+## Traffic encryption
 
+- [ ] VPN
+- [ ] Tor
 - [ ]	Bitmask
 - [ ]	PIA
-- [ ]	Other
+- [ ]	Other? Please specify: ____
 
 ## Cloud-based Project Deployment
 
 - [ ]	Amazon AWS
 - [ ]	Google App Engine
 - [ ]	Heroku
-- [ ]	Other
+- [ ]	Other? Please specify: ____
 
 ## Password managers
 
+- [ ] None
 - [ ]	LastPass
 - [ ]	KeePassX
 - [ ]	KeePass
@@ -99,11 +110,14 @@
 
 ## 2FA
 
+- [ ] None
 - [ ]	Yubikeys
 - [ ]	Gemalto smartcards
 - [ ]	RSA keys
 - [ ]	Google Authenticator
 - [ ]	Authy
+- [ ] SMS
+- [ ] Other? Please specify: ____
 
 ## Misc
 
